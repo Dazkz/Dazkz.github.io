@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04a4943858eb3e1e35153ec585ec0f7a",
+    "revision": "93ec97a6696292937ed5c8cd7b351b9a",
     "url": "/cringe/index.html"
   },
   {
-    "revision": "ade592a6606a68453060",
-    "url": "/cringe/static/css/main.06c4b6b9.chunk.css"
+    "revision": "46362a0bd7b101a1af21",
+    "url": "/cringe/static/css/main.3a7fc105.chunk.css"
   },
   {
     "revision": "e139c155939d1eccc6a3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cringe/static/js/2.57191efa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ade592a6606a68453060",
+    "revision": "46362a0bd7b101a1af21",
     "url": "/cringe/static/js/main.b5521a9e.chunk.js"
   },
   {
