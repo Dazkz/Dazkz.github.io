@@ -1,6 +1,8 @@
 {
-  "name": "hyia",
+  "name": "cringe",
+  "homepage": "https://dazkz.github.io/cringe/",
   "version": "0.1.0",
+  "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -16,7 +18,8 @@
     "start": "--disable-web-security & react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.0.0",
     "redux-devtools": "^3.5.0"
   }
 }

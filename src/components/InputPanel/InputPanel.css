@@ -13,7 +13,7 @@
 }
 
 .input-panel__sort-options {
-  padding: 0 0 0 20px;
+  padding: 0;
   display: flex;
   width: 352px;
   justify-content: space-between;
@@ -38,8 +38,10 @@
 .input-panel__button:hover {
   background-color: #3e8e41;
   color: white;
+  transition: 0.3s;
 }
 li {
+  list-style-type: none;
   color: rgb(199, 206, 199);
   transition: color .25s;
 }

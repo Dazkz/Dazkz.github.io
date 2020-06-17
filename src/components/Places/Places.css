@@ -21,6 +21,8 @@
   width: 300px;
   margin-bottom: 18px;
   border-radius: 20%;
+  transition: all 0.3s ease;
+  transform: scale(1);
 }
 .card__image:hover {
   transition: all 0.3s ease;
